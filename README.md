@@ -1,2 +1,2 @@
-# Automation
-Automation code in selenium using python.
+# KCBL-Project_Automation
+Automation code in Selenium using Python.
